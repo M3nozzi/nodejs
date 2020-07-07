@@ -29,4 +29,4 @@ Thils will be an application to storage repositories of your portfolio, that wil
 This project is under license from MIT. See the archive [LICENSE](LICENSE) to more details.
 
 ---
-Made with 💜 by Fabio Menozzi <a href="https://www.linkedin.com/in/menozzi-fabio" target="_blank">Fabio Menozzi</a>
+Made with 💜 by <a href="https://www.linkedin.com/in/menozzi-fabio" target="_blank">Fabio Menozzi</a>
