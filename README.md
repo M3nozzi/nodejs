@@ -5,7 +5,7 @@
 </h3>
 
 ## :rocket: About the challenge
-The challenge is to create an api to manage repositories with CRUD (CREATE READ UPDATE DELETE) and storing the data in variables in memory.
+The challenge is to create an API to manage repositories with CRUD (CREATE READ UPDATE DELETE) and storing the data in variables in memory.
 it's also possible to like the saved repositories.
 
 ### Technologies
